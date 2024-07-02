@@ -1,4 +1,4 @@
-![# MarryWise](assets/这个男人能嫁吗banner2.png)
+![# MarryWise](assets/这个男人能嫁吗2.jpeg)
 
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/saofund/marrywise-llm?style=social)](https://github.com/saofund/marrywise-llm/stargazers) -->
@@ -12,22 +12,24 @@
 
 **MarryWise: AI驱动的相亲分析工具**
 
-<!-- 在线体验：https://xn--ciqpnj1l70hxw9az0oyqy.com/ -->
-<!-- 在线体验2：https://can-he-marry.com/ -->
-[![在线体验](https://img.shields.io/badge/在线地址-这个男人能嫁吗.com-blue)](https://xn--ciqpnj1l70hxw9az0oyqy.com/)
-[![在线体验2](https://img.shields.io/badge/在线地址2-访问-blue)](https://can-he-marry.com/)
+
+<!-- [![在线体验](https://img.shields.io/badge/在线地址-这个男人能嫁吗.com-blue)](https://xn--ciqpnj1l70hxw9az0oyqy.com/) -->
+<!-- [![在线体验2](https://img.shields.io/badge/在线地址2-访问-blue)](https://can-he-marry.com/) -->
 
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://can-he-marry.com/" style="margin-right: 10px;">
     <img src="assets/product1.png" alt="Product 1" style="width: 300px;">
   </a>
   <a href="https://can-he-marry.com/">
     <img src="assets/product3.png" alt="Product 3" style="width: 300px;">
   </a>
-</div>
+</div> -->
 
+| [![在线体验](https://img.shields.io/badge/在线地址-这个男人能嫁吗.com-blue)](https://xn--ciqpnj1l70hxw9az0oyqy.com/) | [![在线体验2](https://img.shields.io/badge/在线地址2-访问-blue)](https://can-he-marry.com/) |
+|---|---|
+| [![Product 1](assets/product1.png)](https://can-he-marry.com/) | [![Product 2](assets/product3.png)](https://can-he-marry.com/) |
 
 
 ## 功能特点
@@ -86,19 +88,13 @@ python cli_demo.py -c 合并后的权重路径  # 大概15G显存
 
 ```
 
-##### 本地运行cli结果：
-<!-- ![](assets/sft_demo.png) -->
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-    <img src="assets/sft_demo.png" alt="CLI Result">
-</div>
+##### 本地运行cli结果：
+<img src="assets/sft_demo.png" width="500" alt="CLI Result">
 
 ##### 如有任何问题，欢迎联系作者。
-数据集获取、模型、算法、技术交流、合作开发等，欢迎添加作者wechat。
+数据集获取、模型、算法、技术交流、合作开发等，欢迎添加作者微信。
 <img src="assets/wechat.png" width="200" alt="作者的微信二维码">
 
-
-  <div style="margin-top: 20px;">
-    <img src="assets/saofund2.png" width="100" alt="sáo基金标志" style="vertical-align: middle;">
-    <span style="vertical-align: middle;">由 sáo 基金赞助，感谢。</span>
-  </div>
+###### 由 sáo 基金赞助，感谢。
+<img src="assets/saofund2.png" width="500" alt="CLI Result">
