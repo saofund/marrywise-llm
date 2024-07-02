@@ -1,5 +1,5 @@
 <!-- ![# MarryWise](assets/这个男人能嫁吗2.jpeg) -->
-<img src="assets/这个男人能嫁吗2.jpeg" width="400" alt="# MarryWise">
+<img src="assets/这个男人能嫁吗2.jpeg" width="600" alt="# MarryWise">
 
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/saofund/marrywise-llm?style=social)](https://github.com/saofund/marrywise-llm/stargazers) -->
@@ -86,5 +86,5 @@ python cli_demo.py -c 合并后的权重路径  # 大概15G显存
 
 | 作者微信二维码 | sáo基金赞助 |
 |---|---|
-| ![作者的微信二维码](assets/wechat.png) | ![sáo基金标志](assets/saofund2.png) |
+| ![作者的微信二维码](assets/Wechat.jpeg) | ![sáo基金标志](assets/saofund2.png) |
 | 数据集获取、模型、算法、技术交流、合作开发等，欢迎添加作者微信。 | 由 sáo 基金赞助，感谢。 |
