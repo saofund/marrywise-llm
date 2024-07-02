@@ -1,6 +1,5 @@
 <!-- ![# MarryWise](assets/这个男人能嫁吗2.jpeg) -->
-<img src="assets/这个男人能嫁吗2.jpeg" width="600" alt="# MarryWise">
-
+<img src="assets/这个男人能嫁吗2.jpeg" width="900" alt="# MarryWise">
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/saofund/marrywise-llm?style=social)](https://github.com/saofund/marrywise-llm/stargazers) -->
 [![GitHub Code License](https://img.shields.io/github/license/saofund/marrywise-llm)](LICENSE)
