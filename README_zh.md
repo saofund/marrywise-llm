@@ -11,22 +11,8 @@
 
 \[ English | [中文](README_zh.md) \]
 
-**MarryWise: AI驱动的相亲分析工具**
+<!-- **MarryWise: AI驱动的相亲分析工具** -->
 
-
-<!-- [![在线体验](https://img.shields.io/badge/在线地址-这个男人能嫁吗.com-blue)](https://xn--ciqpnj1l70hxw9az0oyqy.com/) -->
-<!-- [![在线体验2](https://img.shields.io/badge/在线地址2-访问-blue)](https://can-he-marry.com/) -->
-
-
-
-<!-- <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://can-he-marry.com/" style="margin-right: 10px;">
-    <img src="assets/product1.png" alt="Product 1" style="width: 300px;">
-  </a>
-  <a href="https://can-he-marry.com/">
-    <img src="assets/product3.png" alt="Product 3" style="width: 300px;">
-  </a>
-</div> -->
 
 | [![在线体验](https://img.shields.io/badge/在线地址-这个男人能嫁吗.com-blue)](https://xn--ciqpnj1l70hxw9az0oyqy.com/) | [![在线体验2](https://img.shields.io/badge/在线地址2-访问-blue)](https://can-he-marry.com/) |
 |---|---|
@@ -100,5 +86,5 @@ python cli_demo.py -c 合并后的权重路径  # 大概15G显存
 
 | 作者微信二维码 | sáo基金赞助 |
 |---|---|
-| <img src="assets/wechat.png" width="200" alt="作者的微信二维码"> | <img src="assets/saofund2.png" width="200" alt="sáo基金标志"> |
+| ![作者的微信二维码](assets/wechat.png) | ![sáo基金标志](assets/saofund2.png) |
 | 数据集获取、模型、算法、技术交流、合作开发等，欢迎添加作者微信。 | 由 sáo 基金赞助，感谢。 |
