@@ -4,7 +4,7 @@
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/saofund/marrywise-llm?style=social)](https://github.com/saofund/marrywise-llm/stargazers) -->
 [![GitHub Code License](https://img.shields.io/github/license/saofund/marrywise-llm)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/saofund/marrywise-llm)](https://github.com/saofund/marrywise-llm/commits/main)
-[![Studios](https://img.shields.io/badge/ModelScope-Open%20in%20ModelScope-blue)](https://modelscope.cn/models/qwen/Qwen2-7B)
+[![Studios](https://img.shields.io/badge/ModelScope-Open%20in%20ModelScope-blue)](https://www.modelscope.cn/models/saofund/marrywise-7b-lora)
 [![Spaces](https://img.shields.io/badge/🤗-Open%20in%20huggingface-blue)](https://huggingface.co/saofund/marrywise-7b-lora)
 [![Twitter](https://img.shields.io/twitter/follow/sáofund)](https://x.com/976582772Wyt)
 
