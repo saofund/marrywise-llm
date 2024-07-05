@@ -45,6 +45,7 @@ git lfs install
 git clone https://www.modelscope.cn/qwen/Qwen2-7B.git
 
 # Download lora weights
+git clone https://huggingface.co/saofund/marrywise-7b-lora
 
 # Install LLaMA-Factory
 git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git    
