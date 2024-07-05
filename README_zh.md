@@ -48,7 +48,8 @@
 git lfs install
 git clone https://www.modelscope.cn/qwen/Qwen2-7B.git
 
-# 下载lora权重
+# 下载lora权重，中文区使用modelscope下载会更快
+git clone https://oauth2:pVjFTH_CP5Jrqu6DNVVF@www.modelscope.cn/saofund/marrywise-7b-lora.git
 
 # 安装 LLaMA-Factory
 git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git    
