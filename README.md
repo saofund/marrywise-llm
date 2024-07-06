@@ -9,6 +9,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/sáofund)](https://x.com/976582772Wyt)
 
 \[ English | [中文](README_zh.md) \]
+https://github.com/saofund/marrywise-llm/blob/main/assets/marrywise_ops.mp4
 
 <!-- **MarryWise: AI-Driven Matchmaking Analysis Tool** -->
 
